@@ -1,0 +1,8 @@
+    {
+      "name": "DIXIT TV",
+      "description": "favorites",
+      "manifestVersion": 3,
+      "pluginLists": [
+        "https://github.com/AaryaDixit/Cloudstream/blob/main/Plugins.json"
+      ]
+    }
